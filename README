@@ -1,0 +1,7 @@
+This repository (chromiumos-assets.git) contains the unofficial, Chromium
+OS versions of assets (images, sounds, etc.) that differ between official
+and unofficial builds.  These files are installed by the
+chromeos-assets-split package.
+
+Assets that are shared between official and unofficial builds are stored in
+assets.git and installed by the chromeos-assets package.
